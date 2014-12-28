@@ -1,3 +1,14 @@
+/*.sdf
+/*.vsp
+/*.psess
+/ipch
+/Debug
+/Release
+/MyVoiceRecognition/Debug
+/MyVoiceRecognition/*.vcxproj.user
+/MyVoiceRecognition/*.vcxproj
+/MyVoiceRecognition/*.vcxproj.filters
+
 # Compiled Object files
 *.slo
 *.lo

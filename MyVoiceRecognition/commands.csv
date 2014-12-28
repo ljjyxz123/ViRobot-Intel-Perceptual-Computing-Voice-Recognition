@@ -1,0 +1,25 @@
+0,command,speech,response
+1,test,test,"Test ok, I heard!"
+2,continue,continue,Resume command system
+3,continue,resume,Resume command system
+4,pause,pause,Paused command system
+5,follow me,follow me,I will follow you
+6,stop,stop,OK
+7,stop,halt,OK
+8,stop,abort,OK
+9,stop,shut down,OK
+10,faster,faster,Speed up!
+11,slower,slower,Speed down!
+12,turn left,turn left,turn left
+13,turn right,turn right,turn right
+14,go straight,go straight,go straight
+15,backward,back,back
+16,rotate left,rotate left,rotate left
+17,rotate right,rotate right,rotate right
+18,reset speed,reset speed,Speed reseted!
+19,hello,hello,"Hello, I am ExBot!"
+20,go your self,go your self,"go ahead, do not block me!"
+21,time,what is the time,null
+22,time,what time,null
+23,date,what is the date,null
+24,date,what date,null
